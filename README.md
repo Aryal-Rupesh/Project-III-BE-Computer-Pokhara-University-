@@ -1,5 +1,7 @@
 # Classification-of-Brain-Tumor-Using-Image-Processing-and-Deep-Learning
 
+## Project-III-BE-Computer-Pokhara-University-
+
 Automated disease detection in medical imaging has become an emergent field in several medical diagnostic applications. Automated detection of tumors in Magnetic Resonance Imaging (MRI) is crucial as it provides essential information about abnormal tissues necessary for planning treatment. The conventional method for defect detection in magnetic resonance brain images is human inspection.
 
 ## Project Overview
