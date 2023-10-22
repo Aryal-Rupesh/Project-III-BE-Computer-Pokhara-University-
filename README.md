@@ -8,7 +8,7 @@ Automated disease detection in medical imaging has become an emergent field in s
 
 This project aims to develop a brain tumor classification system that leverages image processing and deep learning techniques. The objective is to accurately identify and classify different types of brain tumors, including glioma tumors, meningioma tumors, and pituitary tumors, as well as identifying images with no tumors based on medical imaging data, such as MRI scans.
 
-By utilizing advanced algorithms and neural networks, the proposed system enhances the efficiency and accuracy of tumor classification, enabling timely and precise diagnoses. Comparative analysis will be conducted among various pre-trained deep learning models, including VGG16, ResNet, and ViT, to select the final model for brain tumor classification.
+By utilizing advanced algorithms and neural networks, the proposed system enhances the efficiency and accuracy of tumor classification, enabling timely and precise diagnoses. Comparative analysis was conducted among various pre-trained deep learning models, including VGG16, ResNet, and ViT, to select the final model for brain tumor classification. As a result, VGG16 was chosen.
 
 ## Key Features
 
