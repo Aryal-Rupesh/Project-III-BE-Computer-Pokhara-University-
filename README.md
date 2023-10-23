@@ -47,6 +47,7 @@ clinical validation is necessary to assess the real-world performance and adopti
 developed system. 
 
 ## Future Enhancement
+
 Some straightforward improvements that can be made to enhance this project further:
 ➢ Increased Dataset Size: Expanding the dataset with more MRI images of brain tumors 
 from diverse sources can enhance the model's accuracy and ability to generalize.
