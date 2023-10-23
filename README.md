@@ -29,6 +29,23 @@ in healthcare.
 
 The project includes the construction of a dataset of brain tumor images, as well as preprocessing methods to enhance image quality. The dataset will be made available for further research and development.
 
+## Scope and Limitations of Project
+This project combines image processing techniques and deep learning models for brain 
+tumor classification. The project involves analyzing MRI scans to accurately classify 
+different types of brain tumors. Image processing techniques is utilized for preprocessing, 
+while deep learning models are trained and fine-tuned for classification task. The developed 
+model is deployed on a web environment, allowing for user-friendly access and interaction.
+
+While the integration of image processing and deep learning techniques offers potential 
+benefits, there are several limitations to consider. The effectiveness of the approach depends
+on the availability of a suitable dataset for training and evaluation, as well as the 
+computational resources required for deep learning model training. Challenges related to 
+variability and interpretation of medical imaging may impact the accuracy and 
+generalizability of the developed models. Deployment on a web environment requires
+careful consideration of scalability, performance, and security aspects. Additionally, further 
+clinical validation is necessary to assess the real-world performance and adoption of the 
+developed system. 
+
 ## Installation
 
 To set up the project locally, follow these steps:
