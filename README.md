@@ -69,8 +69,7 @@ To set up the project locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/brain-tumor-classification.git
-   cd brain-tumor-classification
+   git clone https://github.com/Aryal-Rupesh/Project-III-BE-Computer-Pokhara-University-.git 
 
 
 ## Example usage
